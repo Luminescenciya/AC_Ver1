@@ -1,0 +1,28 @@
+{
+    "publications":[
+        {
+        "publication_id": 0,
+        "consultation_id": 0,
+        "name": "My Portrait",
+        "description": "bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla",
+        "language_code": "ru",
+        "publication_date": "20-08-2048"
+        },
+        {
+        "publication_id": 0,
+        "consultation_id": 0,
+        "name": "Sinastry",
+        "description": "bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla",
+        "language_code": "ru",
+        "publication_date": "20-08-2048"
+        },
+        {
+        "publ_id": 0,
+        "consultation_id": 0,
+        "name": "Something",
+        "description": "bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla",
+        "language_code": "ru",
+        "publication_date": "20-08-2048"
+        }
+    ]
+}

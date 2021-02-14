@@ -1,0 +1,52 @@
+{
+    "prices":[
+        {
+        "billing_id": 0,
+        "consultation_name":"My Portrait",
+        "ios_billing_id": "smthng",
+        "android_billing_id": "smthng",
+        "gifts": 0,
+        "last_edit": "20-08-2048"
+        },
+        {
+        "billing_id": 1,
+        "consultation_name":"Sinastry",
+        "ios_billing_id": "smthng",
+        "android_billing_id": "smthng",
+        "gifts": 2,
+        "last_edit": "20-08-2048"
+        },
+        {
+        "billing_id": 2,
+        "consultation_name":"SmthngElse",
+        "ios_billing_id": "smthng",
+        "android_billing_id": "smthng",
+        "gifts": 0,
+        "last_edit": "20-08-2048"
+        },
+        {
+        "billing_id": 0,
+        "consultation_name":"1 month subscribe",
+        "ios_billing_id": "smthng",
+        "android_billing_id": "smthng",
+        "gifts": 0,
+        "last_edit": "20-08-2048"
+        },
+        {
+        "billing_id": 0,
+        "consultation_name":"6 month subscribe",
+        "ios_billing_id": "smthng",
+        "android_billing_id": "smthng",
+        "gifts": 0,
+        "last_edit": "20-08-2048"
+        },
+        {
+        "billing_id": 0,
+        "consultation_name":"1 year subscribe",
+        "ios_billing_id": "smthng",
+        "android_billing_id": "smthng",
+        "gifts": 0,
+        "last_edit": "20-08-2048"
+        }
+    ]
+}

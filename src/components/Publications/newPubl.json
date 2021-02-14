@@ -1,0 +1,8 @@
+{
+    "advices":[
+        {"consultation_id": 0,
+        "consultation_name":"My Portrait"},
+        {"consultation_id": 1,
+        "consultation_name":"Sinastry"}
+    ]
+}

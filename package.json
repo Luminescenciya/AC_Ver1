@@ -1,0 +1,38 @@
+{
+  "name": "ac_new_cms_frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "compression-webpack-plugin": "^3.1.0",
+    "core-js": "^3.6.5",
+    "vue": "^2.6.11",
+    "vue-multiselect": "^2.1.6",
+    "vue-perfect-scrollbar": "^0.2.1",
+    "vue-range-component": "^1.0.3",
+    "vue-resource": "^1.5.1",
+    "vue-router": "^3.1.5",
+    "vue-save-state": "^1.2.0",
+    "vue-sorted-table": "^1.2.0",
+    "vue2-editor": "^2.10.2",
+    "vuedraggable": "^2.23.2",
+    "vuex": "^3.1.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.3.1",
+    "@vue/cli-plugin-eslint": "^4.3.1",
+    "@vue/cli-plugin-router": "^4.3.1",
+    "@vue/cli-service": "^4.3.1",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}

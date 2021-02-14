@@ -1,0 +1,28 @@
+{
+    "blockStatus":[
+        {"block_name": "sdf",
+        "text_is_filled": true,
+        "infographic_is_filled": false},
+        {"block_name": "fdfdfdsf",
+        "text_is_filled": true,
+        "infographic_is_filled": true},
+        {"block_name": "fddfsdsf",
+        "text_is_filled": false,
+        "infographic_is_filled": true},
+        {"block_name": "fddfssf",
+        "text_is_filled": false,
+        "infographic_is_filled": false},
+        {"block_name": "dfdfs",
+        "text_is_filled": true,
+        "infographic_is_filled": true},
+        {"block_name": "fdsdfsf",
+        "text_is_filled": true,
+        "infographic_is_filled": true},
+        {"block_name": "fdsfdsfsff",
+        "text_is_filled": false,
+        "infographic_is_filled": true},
+        {"block_name": "fdsdfsfsf",
+        "text_is_filled": false,
+        "infographic_is_filled": false}
+    ]
+}

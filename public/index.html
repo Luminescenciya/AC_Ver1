@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>AstroCode CMS</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0 minimum-scale=1, maximum-scale=1">
+		<meta name="keywords" content="your,keywords">
+		<link rel="shortcut icon" type="image/svg" href="/logo.svg"/>
+		<meta name="description" content="AstroCode CMS">
+	</head>
+	<body>
+		<div id="pager">
+			<app-header></app-header>
+			<div id="base">
+				<sidebar></sidebar>
+				<div v-bind:class="{'menubar__panels--active': $root.menu_toggle}" class="content" id="content">
+			  		<router-view></router-view>
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
+
